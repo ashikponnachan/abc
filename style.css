@@ -1,0 +1,27 @@
+.img-num{
+    width: 11.5cm;
+}
+.header{
+    font-size: 3rem;
+}
+.sub-note{
+    font-size: 21px;
+    font-weight:400;
+}
+.btnclass{
+    background-color: #387ed1;
+
+}
+.btnclass:hover{
+    background-color: black;
+}
+.img-hover:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+.anchor1{
+    color: #387ed1;
+}
+.anchor1:hover{
+    color: black;
+}
